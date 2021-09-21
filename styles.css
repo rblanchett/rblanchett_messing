@@ -1,0 +1,35 @@
+body {
+  background-color: white;
+  font-family: "Arial", sans-serif;
+}
+
+nav ul {
+    background-color: DarkTurquoise;
+    color: white;
+    border-style: solid;
+    border-color: YellowGreen;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+nav ul li a {
+    text-decoration: none;
+    color: White;
+}
+
+img{
+  border-radius: 10px;
+}
+
+#Me{
+  width: 25%;
+  border-radius: 10%;
+}
